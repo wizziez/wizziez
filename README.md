@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" /> </p>
 
-- ⚡You can read some of my writings going through the attached links; [[https://www.byapon.com/2022/technology/processor-kohon.html](https://www.byapon.com/2022/technology/processor-kohon.html)](https://techcommunity.microsoft.com/users/wizziee/2229974)
+- ⚡You can read some of my writings going through the attached links; (https://techcommunity.microsoft.com/users/wizziee/2229974)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
