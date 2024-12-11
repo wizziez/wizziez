@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wizziez" alt="wizziez" /></a> </p>
 
-- Personal Portfolio [https://raiyansportfoliiio.web.app/](https://raiyansportfoliiio.web.app/)
-
 - ⚡You can read some of my blogs going through the attached link [https://techcommunity.microsoft.com/blog/educatordeveloperblog/github-student-developer-pack-developer-tools-for-tech-students/4219390](https://techcommunity.microsoft.com/blog/educatordeveloperblog/github-student-developer-pack-developer-tools-for-tech-students/4219390)
 
 - You can reach me @ **raiyanbsarwar@gmail.com**
