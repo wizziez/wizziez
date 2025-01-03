@@ -9,7 +9,7 @@
 
 - You can reach me @ **raiyanbsarwar@gmail.com**
 
-- Here is the link to my resume [https://drive.google.com/file/d/1hy0cf_3iF70vv9xxi336J2zNHg8vlRAr/view?usp=drive_link](https://drive.google.com/file/d/1hy0cf_3iF70vv9xxi336J2zNHg8vlRAr/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
