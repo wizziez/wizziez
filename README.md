@@ -100,11 +100,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizziez&show_icons=true&locale=en&layout=compact" alt="wizziez" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wizziez&show_icons=true&locale=en" alt="wizziez" />
-</p>
