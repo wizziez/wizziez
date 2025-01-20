@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Raiyan Bin Sarwar</h1>
-<h3 align="center">A Tech Community Builder</h3>
+<p align="center" style="font-size: 24px; font-weight: bold;">Hello there, I'm Raiyan Bin Sarwar</p>
+<p align="center" style="font-size: 18px;">A Tech Community Builder</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" />
@@ -23,21 +23,21 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<p align="center" style="font-size: 20px; font-weight: bold;">Connect with me:</p>
 <p align="center">
   <a href="https://linkedin.com/in/raiyanbsarwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raiyanbsarwar" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Badges:</h3>
+<p align="center" style="font-size: 20px; font-weight: bold;">Badges:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Campus Expert" />
   <img src="https://img.shields.io/badge/MLSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Student Ambassador" />
   <img src="https://img.shields.io/badge/Postman%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Student Expert" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<p align="center" style="font-size: 20px; font-weight: bold;">Languages and Tools:</p>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
