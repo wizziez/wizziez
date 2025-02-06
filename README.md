@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wizziez&theme=onedark" alt="wizziez" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://techcommunity.microsoft.com/blog/educatordeveloperblog/github-student-developer-pack-developer-tools-for-tech-students/4219390">
     <img src="https://img.shields.io/badge/Read%20My%20Blog-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Read My Blog" />
   </a>
