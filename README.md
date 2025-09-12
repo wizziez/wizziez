@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 24px; font-weight: bold;">Hello there, I'm Raiyan Bin Sarwar</p>
-<p align="center" style="font-size: 18px;">A Tech Community Builder</p>
+<p align="center" style="font-size: 18px;">A Tech Community Builder | AI & Web Enthusiast</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" />
