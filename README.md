@@ -27,8 +27,6 @@
 <p align="center" style="font-size: 20px; font-weight: bold;">Badges:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Campus Expert" />
-  <img src="https://img.shields.io/badge/MLSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Student Ambassador" />
-  <img src="https://img.shields.io/badge/Postman%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Student Expert" />
 </p>
 
  
